@@ -258,3 +258,4 @@ The app is designed responsively for desktop and mobile, with light/dark themes.
 - Demo users are database-backed, but their default passwords are reset during bootstrap. Replace the demo account lifecycle before production use.
 - Email/webhook delivery requires valid deployment-specific channel configuration and credentials. Do not use the example URLs or passwords in production.
 - Docker Compose is the intended one-command local environment. Docker is needed to validate that stack; it was not available in the authoring environment.
+# Network-Monitoring-System
